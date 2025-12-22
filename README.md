@@ -1,5 +1,11 @@
 # Modular Laravel API – Reference Implementation
 
+![CI](https://github.com/aleksdjukic/laravel-modular-architecture/actions/workflows/ci.yml/badge.svg)
+![PHP](https://img.shields.io/badge/PHP-8.4-blue)
+![Laravel](https://img.shields.io/badge/Laravel-12-red)
+![Architecture](https://img.shields.io/badge/Architecture-Modular-important)
+![Testing](https://img.shields.io/badge/Testing-Feature%20%26%20Unit-green)
+
 This repository demonstrates a modular Laravel backend architecture focused on
 clean code, separation of concerns, and testable application design.
 
