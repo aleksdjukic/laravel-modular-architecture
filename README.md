@@ -1,6 +1,5 @@
 # Modular Laravel API – Reference Implementation
 
-![CI](https://github.com/aleksdjukic/laravel-modular-architecture/actions/workflows/ci.yml/badge.svg)
 ![PHP](https://img.shields.io/badge/PHP-8.4-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-12-red)
 ![Architecture](https://img.shields.io/badge/Architecture-Modular-important)
