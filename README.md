@@ -47,14 +47,12 @@ and long-term maintainability is improved.
 This approach is particularly effective for multi-domain systems and long-lived
 backend applications.
 
-## Testing & CI
-
-The repository includes Feature and Unit tests covering real API workflows,
-authorization rules, and domain edge cases. A GitHub Actions workflow demonstrates
-a production-style CI setup.
-
 ## Scope
 
 This repository focuses on application-layer design. Framework bootstrap and
 infrastructure concerns are intentionally omitted to keep the emphasis on
 architecture, domain logic, and testing practices.
+
+## License
+
+All rights reserved.
