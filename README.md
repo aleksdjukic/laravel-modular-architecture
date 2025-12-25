@@ -55,4 +55,4 @@ architecture, domain logic, and testing practices.
 
 ## License
 
-All rights reserved.
+MIT
