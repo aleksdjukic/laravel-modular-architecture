@@ -4,6 +4,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-12-red)
 ![Architecture](https://img.shields.io/badge/Architecture-Modular-important)
 ![Testing](https://img.shields.io/badge/Testing-Feature%20%26%20Unit-green)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 This repository demonstrates a modular Laravel backend architecture focused on
 clean code, separation of concerns, and testable application design.
